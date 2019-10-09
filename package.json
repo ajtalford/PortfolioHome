@@ -1,5 +1,5 @@
 {
-  "name": "Portfolio3000",
+  "name": "ajportfolio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajtalford/Portfolio3000.git"
+    "url": "git+https://github.com/ajtalford/PortfolioHome.git"
   },
   "author": "AJ Talford",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajtalford/Portfolio3000/issues"
+    "url": "https://github.com/ajtalford/PortfolioHome/issues"
   },
-  "homepage": "https://ajtalford.github.io/Portfolio3000/",
+  "homepage": "https://github.com/ajtalford/PortfolioHome",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
